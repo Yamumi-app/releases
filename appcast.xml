@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Yamumi</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 20 May 2026 18:07:22 +0300</pubDate>
+            <sparkle:fullReleaseNotesLink>https://yamumi-release.myrt.co/notes/Yamumi-full-release-notes.html</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://yamumi-release.myrt.co/notes/Yamumi-1.0.1.html</sparkle:releaseNotesLink>
+            <enclosure url="https://yamumi-release.myrt.co/images/Yamumi-1.0.1.dmg" length="4729586" type="application/octet-stream" sparkle:edSignature="oJt+zrLuApKyFHN/IM8cpBeMp5JA+vINqSJ9m/PlgULJTe6mF4anZvoTz5vyNWhIG2rk/0JkSjwr7Q1ILuLFAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://yamumi-release.myrt.co/images/Yamumi2-1.delta" sparkle:deltaFrom="1" length="3994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9HoiO69bW+ztEH2ttDqo9tKk1V7cEN+nu5gNkcvDKJb+hNTZi+NaL/LeP4HeIywIgccM4GIq11gt0yXoqN1oCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 20 May 2026 17:40:30 +0300</pubDate>
+            <sparkle:fullReleaseNotesLink>https://yamumi-release.myrt.co/notes/Yamumi-full-release-notes.html</sparkle:fullReleaseNotesLink>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://yamumi-release.myrt.co/notes/Yamumi-1.0.0.html</sparkle:releaseNotesLink>
+            <enclosure url="https://yamumi-release.myrt.co/images/Yamumi-1.0.0.dmg" length="4795677" type="application/octet-stream" sparkle:edSignature="y//y6XuHxVs/dWXko1XXzieFE6PLsIKE4QWHkIsQ2Ae67/0JxnmgjL/TKlw5KooGAiwnp2MA89y2TSc/rvw9Aw=="/>
+        </item>
+    </channel>
+</rss>
